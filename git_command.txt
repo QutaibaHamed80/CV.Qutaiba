@@ -5,7 +5,7 @@ your_urername="QutaibaHamed80"
 git config --global user.email $your_email
 git config --global user.name $your_urername
 
-QutaibaHamed80
+# QutaibaHamed80
 
 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
 
