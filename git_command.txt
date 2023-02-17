@@ -1,0 +1,14 @@
+QutaibaHamed80
+
+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
+
+
+
+
+echo "# CV.Qutaiba" >> README.md
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/QutaibaHamed80/CV.Qutaiba.git
+git push -u origin main
